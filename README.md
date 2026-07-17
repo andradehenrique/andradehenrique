@@ -87,12 +87,4 @@ I’m Henrique Andrade, a **Full Stack Developer** with expertise in **React, Ne
 
 ---
 
-### :fire: My Stats :
-
-![GitHub Stats Card](https://ghstats.dev/api/card?username=andradehenrique&hide_title=true)
-
-![Top Languages](https://ghstats.dev/api/langs?username=andradehenrique)
-
----
-
 Let's connect and build something amazing together! 🚀
