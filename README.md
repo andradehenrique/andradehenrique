@@ -89,9 +89,9 @@ I’m Henrique Andrade, a **Full Stack Developer** with expertise in **React, Ne
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andradehenrique&hide_border=true&show_icons=true&bg_color=26242D&title_color=7051EF&text_color=F4F3FF&icon_color=7051EF)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=andradehenrique&hide_title=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andradehenrique&layout=compact&hide_border=true&bg_color=26242D&title_color=7051EF&text_color=F4F3FF&icon_color=7051EF)
+![Top Languages](https://ghstats.dev/api/langs?username=andradehenrique)
 
 ---
 
